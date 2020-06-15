@@ -1,0 +1,16 @@
+/*On va s'entrainer*/
+/*h1,p{color: dodgerblue;}*/
+/*body {color: firebrick;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}*/
+p{color: blue;}
+.conflit{color: indigo;}
+
+#test {color: black;}
+
+/*.bleu, .rouge, .vert {color: cornsilk; display: inline;}*/
+.bleu{background-color: darkblue;}
+.rouge{background-color: darkred;}
+.vert{background-color: green;}
+.bleu, .rouge, .vert{padding: 2em; color: rgb(253, 253, 253); display: inline;}
+.bleu, .rouge, .vert{margin: 2em}
