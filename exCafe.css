@@ -1,0 +1,44 @@
+header{
+    height: 1,4em;
+    position: sticky;
+    display: flex;
+    background-color: black;
+    color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pHead{margin-left: 40px;
+    font-weight: bold;
+    font-size: 16px;
+}
+nav{width: 600px;
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-around;
+    margin-left: 560px;
+}
+.lebody{
+
+}
+img{position: absolute;
+    display: flex;
+    width: 100%;
+}
+.textBody{position: absolute;
+    display: flex;
+    text-align: center;
+    align-content: flex-start;
+    color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{position: absolute;
+    display: flex;
+    align-content: center;
+    margin: 100px 400px;
+    color: blanchedalmond;
+    font-size: 50px;
+}
+.texte{position: relative;
+    display: flex;
+    align-content: center;
+    margin: 250px 400px;
+}

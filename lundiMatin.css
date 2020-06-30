@@ -9,8 +9,12 @@ p{color: blue;}
 #test {color: black;}
 
 /*.bleu, .rouge, .vert {color: cornsilk; display: inline;}*/
-.bleu{background-color: darkblue;}
+.bleu
+{background-color: darkblue
+    ;}
+
+
 .rouge{background-color: darkred;}
 .vert{background-color: green;}
-.bleu, .rouge, .vert{padding: 2em; color: rgb(253, 253, 253); display: inline;}
-.bleu, .rouge, .vert{margin: 2em}
+.bleu, .rouge, .vert{padding: 2em; color: rgb(253, 253, 253); display: inline-block;}
+.bleu, .rouge, .vert{margin: 11em 2em 2em 2em}

@@ -1,0 +1,50 @@
+table{font-family: fantasy;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(58, 1, 50);
+    border-style: solid;
+}
+.pays{width: 80em;
+}
+h1{float: left;
+    text-align: left;
+    color: rgb(74, 27, 66);
+}
+.nav{float: right;
+    text-align: right;
+    font-size: 20px;
+    color: rgb(255, 187, 14);
+    width: 5em;
+}
+#ciel{height: 300px;
+    width: 1333px;
+}
+h2{background-color: rgb(255, 187, 14);
+    margin: 2em;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 1,5em;
+    text-align: center;
+}
+img{height: 9em;
+    width: initial;
+    padding: 8px;
+}
+.txt1{
+    text-align: left;
+    margin-left: 20px;
+}
+.imgInde{float: left;
+    margin-left: 20px;
+}
+.txt2{
+    text-align: left;
+    margin-left: 20px;
+}
+.imgItalie{float: right;}
+.txt3{
+    text-align: left;
+    margin-left: 20px;
+}
+.imgMexique{float: left;
+    margin-left: 20px;
+}

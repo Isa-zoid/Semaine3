@@ -1,0 +1,23 @@
+.boite{background-color: brown;
+    width: 100px;
+    height: 100px;
+    color: rgb(255, 255, 255);
+    margin: 5px;
+    }
+    
+.container{
+display: flex
+}
+/*devrait être en ligne mais c'est en colonne, normal j'avais oublié la div!!*/
+
+.column{
+    flex-direction: column;
+}
+
+.columnReverse{
+    flex-direction: column-reverse;
+}
+
+.wrap{
+    flex-wrap: wrap;
+}

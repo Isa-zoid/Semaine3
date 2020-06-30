@@ -1,0 +1,26 @@
+.carre{width: 100px;
+    height: 100px;
+    background-color: lightseagreen;
+    margin-bottom: 50px;
+    display: inline-block;
+}
+   
+#relatif{position: relative;
+    top: 30px;
+    border: solid 2px rgb(0, 0, 0);
+}
+#relatif2{position: relative;
+    top: 30px;
+    border: solid 2px rgb(0, 0, 0);
+    margin-left: 50px;
+}
+#absolute1{position: absolute;
+    top: 320px;
+    border: solid 2px black;
+}
+.contener{position: relative;
+}
+#absolute2{position: absolute;
+    top: 320px;
+    border: solid 2px black;
+}
